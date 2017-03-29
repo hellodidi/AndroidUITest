@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- 注意：string的第一个字母为小写，string.xml文件中也是！！！ -->
+
+    <group android:checkableBehavior="single" >
+        <item
+            android:id="@+id/font_red"
+            android:alphabeticShortcut="r"
+            android:title="@string/red"/>
+        <item
+            android:id="@+id/font_black"
+            android:alphabeticShortcut="r"
+            android:title="@string/black"/>
+
+    </group>
+</menu>

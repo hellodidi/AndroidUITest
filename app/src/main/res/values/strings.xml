@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AndroidUITest</string>
+    <string name="hello_world">用于测试的内容</string>
+    <string name="menu_font_size">字体大小</string>
+    <string name="menu_font_color">字体颜色</string>
+    <string name="font_10">10号</string>
+    <string name="font_16">16号</string>
+    <string name="font_20">20号</string>
+    <string name="plain_menu">普通菜单项</string>
+    <string name="red">红色</string>
+    <string name="black">黑色</string>
+
+
+</resources>
